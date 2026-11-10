@@ -1,9 +1,3 @@
--- ============================================================
--- Financial Portfolio Management System (MySQL)
--- Database Management Capstone Project
--- All SQL queries used in the report, in the same order
--- ============================================================
-
 -- Query 1: Create the Database
 CREATE DATABASE portfolio_mysql;
 
