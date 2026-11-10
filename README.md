@@ -273,3 +273,5 @@ K.R. Mangalam University
  
 If you find this project useful for learning SQL or Database Management Systems, consider giving the repository a star.
  
+**Developed by Chirag Virdi**
+ 
